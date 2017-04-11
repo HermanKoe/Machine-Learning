@@ -1,0 +1,7 @@
+\BOOKMARK [-1][]{part.1}{CS231n: Convolutional Neural Networks for Visual Recognition by Stanford University}{}% 1
+\BOOKMARK [0][]{chapter.1}{1 Linear classification: Support Vector Machine, Softmax}{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{1.1 Linear Classification}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{1.2 Parameterized mapping from images to label scores}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 Linear classifier.}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 Analogy of images as high-dimensional points.}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Interpretation of linear classifiers as template matching.}{section.1.2}% 7

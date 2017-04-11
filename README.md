@@ -1,2 +1,3 @@
 # Machine-Learning
-Creating a new branch is quick.
+Creating a new branch is quick AND sample.
+ohhooojoo

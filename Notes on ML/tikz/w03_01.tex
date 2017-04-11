@@ -1,0 +1,12 @@
+\begin{tikzpicture}
+  %\draw[very thin,color=gray] (-0.1,-1.1) grid (7.9,3.9);
+  (3,3.8)\node[left] {Yes};
+  
+  %(0,0) \node[left] {No};
+  \draw[very thin,color=gray] (-0.2,3.8) -- (8.0,3.8) {};
+  \draw[->] (-0.2,0) -- (8.0,0) node[right] {Tumor Size};
+  \draw[->] (0,-1.0) -- (0,4.0) node[above] {Malignant};
+  \draw[blue, thin] (0,-0.5) -- (5,4);
+  \draw[red, thin] (0,-0.8) -- (7.5,4);
+  %\filldraw[black] (0,0) circle (2pt) node[anchor=west] {Intersection point};
+\end{tikzpicture}
